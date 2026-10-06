@@ -1,4 +1,4 @@
-# Hi, I'm Katharina (Qiao-Yun) Cheng 👋
+# Hi, I'm Katharina Cheng 👋
 
 **Applied AI & Backend Engineer** building AI-powered products, agentic workflows, and data-driven systems.
 
