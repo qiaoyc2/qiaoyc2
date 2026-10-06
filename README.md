@@ -35,4 +35,4 @@ Projects spanning text classification, embeddings, clustering, information retri
 📍 Seattle, WA  
 💼 Interested in **Applied AI · AI Engineering · Backend Engineering · Data Engineering**
 
-[Portfolio](https://qiaoyc2.github.io/) · [LinkedIn](www.linkedin.com/in/qiaoyc) · [Resume]
+[Portfolio](https://qiaoyc2.github.io/) · [LinkedIn](www.linkedin.com/in/qiaoyc) · [Resume](/Applied_AI_Engineer_Resume.pdf)
